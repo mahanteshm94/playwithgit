@@ -1,0 +1,37 @@
+class Chaithra
+{
+  static void ellips()
+
+	{
+	   int b=10;
+	   int h=35;
+	   double pai=3.142;
+	   double area=pai*b*h;
+	   System.out.println(area);
+
+
+	}
+
+	public static void main(String[] args)
+
+	{
+		ellips();
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
